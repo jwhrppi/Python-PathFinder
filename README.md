@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Play_on_Itch.io-354024?style=for-the-badge&logo=itch.io&logoColor=E5D7C4" alt="Play on Itch.io" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-889063?style=for-the-badge&logo=python&logoColor=E5D7C4" alt="Python" />
+  <a href="https://jwhrppi.itch.io/python-pathfinder" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Game-889063?style=for-the-badge&logo=itch.io&logoColor=E5D7C4" alt="Download Game on Itch.io" />
+  </a>
 </p>
 
 ---
